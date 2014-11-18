@@ -1,4 +1,4 @@
-:focus {
+body :focus {
     outline: 2px solid #f60;
     outline-offset: -2px;
 }
